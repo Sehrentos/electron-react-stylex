@@ -93,7 +93,7 @@ npm run start
 
 # StyleX installation
 
-## Prequiresites
+## Prerequisites
 ```sh
 npm install --save-dev postcss-loader autoprefixer
 ```
