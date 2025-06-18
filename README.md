@@ -1,4 +1,4 @@
-Electron React StyleX application
+# Electron React StyleX application
 
 Sample Electron application with React and StyleX libraries.
 
@@ -17,6 +17,10 @@ npm run start
 ```
 
 # Setup guide (manual)
+
+How the project was put together from scratch.
+
+>State: incomplete. >Missing: config & src file changes after adding the StyleX library
 
 1. Initialize new project
 
@@ -87,7 +91,7 @@ root.render(<App />);
 npm run start
 ```
 
-# StyleX (Meta) installation
+# StyleX installation
 
 ## Prequiresites
 ```sh
